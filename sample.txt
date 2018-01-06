@@ -1,3 +1,5 @@
 猿である僕はGITを理解できる。って
 edited from cloned repository
 line3: conflict created
+line3: xung dot tu cloned
+
